@@ -1,0 +1,205 @@
+.header{
+    width: 100%;
+    height: 90px;
+    position: fixed;
+    top: 0%;
+    z-index: 10;
+    display: flex;
+    background-color: #429c4f;
+}
+body{
+    margin: 0%;
+}
+.headerimage{
+    padding-left: 40px;
+    padding-top: 20px;
+    width: 75px;
+    height: 50px;
+}
+.headertext{
+    color:#ffffff;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.5;
+    padding-top: 30px;
+    padding-left: 100px;
+    font-family:FuturaBT W05 ExtraBlack;
+    font-style: italic;
+    width: 50%;
+
+
+}
+.text1{
+    padding-left: 40px;
+    
+}
+.text1:hover{
+    color: black;
+    cursor: pointer;
+    
+}
+.icons svg{
+    padding-top: 30px;
+    width: 30px;
+    padding-left: 10px;
+    fill:white;
+    
+
+    
+}
+
+.image1{
+    width: 100%;
+    height: 550px;
+    padding-top: 89px;
+    position: relative;
+    overflow: hidden;
+
+    
+}
+.text{
+    position: absolute;
+    color: rgb(240, 229, 229);
+    top: 100px;
+    width: 450px;
+    padding-left: 180px;
+    padding-top: 80px;
+}
+.paragraph{
+    font-family: FuturaBT W05 ExtraBlack;
+    font-size: 19px;
+    padding-left:180px ;
+    padding-top: 350px;
+    position: absolute;
+    top: 0%;
+    color: rgb(240, 229, 229);
+    
+
+
+}
+.button{
+    font-family:FuturaBT W05 ExtraBlack ;
+    font-size: 16px;
+    border: 2px solid #ffffff;
+     width: 200px;
+     height: 40px;
+     color: white;
+     background-color: black;
+
+}
+.button :hover{
+    cursor: pointer;
+    color: green;
+}
+.page2 img{
+    width: 100%;
+}
+.page3{
+    width: 100%;
+    height: 700px;
+
+
+}
+.video{
+    width: 700px;
+    height: 500px;
+    padding-left: 350px;
+    padding-top: 100px;
+    border: #ffffff;
+    
+}
+.bold{
+    padding-left: 350px;
+    font-family:FuturaBT W05 ExtraBlack;
+    font-size: 23px;
+    font-weight: 1000;
+    line-height: 1.5;
+    color: black;
+    font-style: italic;
+    
+}
+#page3text{
+    padding-left: 350px;
+
+}
+#page3text2{
+    padding-left: 350px;
+    color: #429c4f;
+    font-style: italic;
+    font-weight: 600;
+}
+.page4{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    margin-top: 50px;
+}
+.img3{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.img4{
+    width: 50%;
+    padding-left: 45px;
+    padding-top: 74px;
+
+}
+footer{
+    width: 100%;
+    height: 500px;
+    background-color: #429c4f;
+    display: block;
+}
+.footer1{
+    width: 100%;
+    height: 50%;
+    
+    display: flex;
+
+}
+.footer11{
+    width: 50%;
+    height: 50%;
+}
+.footer12{
+    width: 50%;
+    height: 50%;
+}
+.footer1image{
+    padding-left: 225px;
+    padding-top: 93px;
+    width: 130px;
+    height: 95px;
+}
+.footer2{
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    color:#ffffff;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 1.5;
+    padding-top: 130px;
+    font-family:FuturaBT W05 ExtraBlack;
+    font-style: italic;
+    
+
+}
+.footericons svg{
+    padding-top: 100px;
+    width: 30px;
+    padding-left: 10px;
+    fill: #ffffff;
+    
+    
+
+}
+.footericons svg :hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+.footericons{
+   margin-left:  409px;
+   margin-top: -174px;
+}
